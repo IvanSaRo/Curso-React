@@ -1,0 +1,13 @@
+html, body {
+    color: azure;
+    background-color: black;
+    font-family: "Helvetica Neue", Arial;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+button {
+    font-size: 1.3rem;
+    padding: 10px;
+    margin-right: 10px;
+}
